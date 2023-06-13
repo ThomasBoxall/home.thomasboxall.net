@@ -1,5 +1,2 @@
-# home.thomasboxall.net
+# Quick Links Page v3a
 
-Soon to be obscolete browser home page with selection of quick links.
-
-Hosted through GitHub pages at [home.thomasboxall.net](https://home.thomasboxall.net)

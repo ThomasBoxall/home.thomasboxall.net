@@ -2,9 +2,8 @@
 
 body{
 	font-family: 'Courier New', 'Montserrat', sans-serif;
-	background-color: black;
+	background-color: #00000000;
 	color:white;
-	margin:0;
 }
 a{
 	color:white;
@@ -34,7 +33,6 @@ a{
 	padding:0px;
 	margin-bottom:50px;
 	min-width:100%;
-	margin-top: 0;
 }
 
 .clearfix::after {
@@ -53,12 +51,6 @@ a{
 	width:10%;
 	float:left;
 }
-#fiftySplit{
-	width:50%;
-	float:left;
-	margin-top: 0px;
-	margin-bottom: 20px;
-}
 .icon{
 	width:64px;
 	height:64px;
@@ -67,9 +59,6 @@ a{
 table{
 	text-align: center;
 	min-width:100%;
-	width:100%;
-	max-width:100%;
-	overflow-wrap: break-word;
 }
 
 td{
@@ -77,10 +66,3 @@ td{
 	max-width:64px;
 	width:64px;
 }
-
-@media screen and (max-width: 1150px) {
-	#twentySplit, #mainContent, #fiftySplit {
-	  width: 100%; /* The width is 100%, when the viewport is 800px or smaller */
-	}
-  }
-
